@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="page_margin">16dp</dimen>
+    <dimen name="page_margin_extra">24dp</dimen>
+    <dimen name="page_margin_extra_er_extra">32dp</dimen>
+    <dimen name="page_margin_half">8dp</dimen>
+    <dimen name="page_margin_half_er_half">4dp</dimen>
+    <dimen name="page_margin_half3x">2dp</dimen>
+
+    <dimen name="heading_text_size_regular">16sp</dimen>
+    <dimen name="heading_text_size_medium">18sp</dimen>
+    <dimen name="heading_text_size_large">30sp</dimen>
+    <dimen name="box_height">58dp</dimen>
+    <dimen name="icon_size">40dp</dimen>
+    <dimen name="logo_size">120dp</dimen>
+</resources>
